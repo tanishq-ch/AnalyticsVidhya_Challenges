@@ -1,0 +1,26 @@
+# Data files
+data/
+*.csv
+
+# Model outputs
+outputs/
+*.pkl
+*.joblib
+
+# Logs
+catboost_info/
+*.tfevents
+
+# Images (optional - keep if important)
+# *.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
