@@ -38,7 +38,7 @@ I participate regularly and update this repository as new competitions are attem
 
 | # | Challenge | Domain | Model | CV Score | Status |
 |---|---|---|---|---|---|
-| 01 | [Data Scientist Challenge](.Data-Scientist-Challenge) | Motor Insurance | CatBoost Ensemble | R² ~0.1606 | 🏃 Active |
+| 01 | [Data Scientist Challenge](Data-Scientist-Challenge) | Motor Insurance | CatBoost Ensemble | R² ~0.1606 | 🏃 Active |
 
 > Table updated as challenges are attempted. ⭐ = top leaderboard finish.
 
